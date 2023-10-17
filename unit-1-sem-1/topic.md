@@ -1,1 +1,1 @@
-Semester 1: January - June 2023
+Semester 1: January - June 2024
