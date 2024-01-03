@@ -2,7 +2,8 @@ credits   : Department of Computing & Mathematics, WIT
 parent    : course/wit-hdip-comp-sci-2024
 moodle    : https://moodle.wit.ie
 slack     : https://setu-hdip-comp-sci-23.slack.com
-
+auth      : 1
+ignorepin : 2125
 icon: 
   type: grommet-icons:schedules
   color: CornflowerBlue
